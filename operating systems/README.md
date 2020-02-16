@@ -18,7 +18,7 @@ __What is an OS?__: An operating system provides an interface to the user applic
 
 __Structure of the OS__: By structure we refer to the control flow in an operating system. How does the os work as an intermediary between the applciations and the hardware? Take this for example, you are running an applcation that requires you to take the input from the keyboar, this service is provided by the os, os informs the device controller to take the input and then it transfers the input wherever needed.
 
-![structure](images/os/structure.png?raw=true)
+![structure](../images/os/structure.png?raw=true)
 
 __Kernel__: The kernel is the part of the operating system closest to the hardware, it is the set of functions that provide essential functionalities of the operating system, much like what a heart does to the human.
 
